@@ -7,7 +7,7 @@ export default function About() {
       <div className="profile">
         <img
           src="./memoji.jpg"
-          alt="profile picture"
+          alt="profile"
           width="200"
           height="250"
         />
