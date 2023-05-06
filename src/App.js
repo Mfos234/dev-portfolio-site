@@ -27,7 +27,7 @@ function Home() {
   return (
     <div>
       <h1>Welcome!</h1>
-      <p>My Name is Tony Stark</p>
+      <p>My Name is Michael Foster</p>
       <div className="bio-sentence">
         <p>I am a(n)</p>
         <Typewriter
