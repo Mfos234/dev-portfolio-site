@@ -7,7 +7,7 @@ export default function Projects() {
       <h1>Projects</h1>
       <div class="project-container">
         <div class="project-description">
-          <p>🚧 Under construction 🚧 </p>
+          <p> Under construction </p>
           <h1>List of Upcoming Projects</h1>
           <p>Smart Mirror </p>
           <p>Smart Home Dashboard </p>
